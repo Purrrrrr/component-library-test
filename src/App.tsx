@@ -1,6 +1,6 @@
 import React from 'react';
-import {Toy} from './components/Toy';
-import {Placekitten} from './components/Placekitten';
+import Toy from './components/Toy';
+import Placekitten from './components/Placekitten';
 import './App.css';
 
 function App() {
