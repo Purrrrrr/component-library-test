@@ -2,7 +2,7 @@ import React, {useMemo} from 'react';
 import './Placekitten.css';
 
 interface PlacekittenProps {
-  /** The number of the kitten picture to use. Integer from 1 to 16 */
+  /** The number of the kitten picture to use. Integer from 1 to 16. Chooses randomly by default */
   kittenNum?: number
 }
 
